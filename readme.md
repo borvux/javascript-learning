@@ -1,1 +1,1 @@
-learning from <a href="https://scrimba.com/learn-javascript-c0v">Scrimba</a>
+learning from <a href="https://scrimba.com/learn-javascript-c0v" target="_blank">Scrimba</a>
